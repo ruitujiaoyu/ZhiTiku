@@ -1,9 +1,7 @@
-# Security Policy
+# 安全策略
 
-## Supported Versions
+核心说明：项目主要只支持最新版本的安全维护 。对于严重的安全问题，也会为几个较旧版本打补丁修复。
+意思是如果在最新版本外的旧版本发现安全漏洞，只有特别严重的情况，才会回溯修复，一般优先保障最新版本的安全性。
 
-We primarily support the latest version only. For serious security issues, we'll patch several older versions too.
 
-## Reporting a Vulnerability
-
-Please report security issues privately, via email, to [contact@orchardcore.net](mailto:contact@orchardcore.net).
+安全问题反馈邮箱：develop@ruitujiaoyu.com
